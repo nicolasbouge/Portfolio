@@ -5,7 +5,7 @@
 - [Qui suis-je ?](#qui-suis-je)
 - [Projet Professionnel et objectifs](#projet-professionnel-et-objectifs)
 - [Mes compétences](#mes-compétences)
-- [Projets auxquels j'ai pris part](#projets-auxquels-j-ai-pris-part)
+- [Projets auxquels j'ai pris part](#projets-auxquels-j'ai-pris-part)
 - [Mes centres d'intérêt](#mes-centres-d'intérêt)
 
 
