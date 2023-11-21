@@ -5,6 +5,7 @@
 - [Qui suis-je ?](#qui-suis-je)
 - [Projet Professionnel et objectifs](#projet-professionnel-et-objectifs)
 - [Mes compétences](#mes-compétences)
+- [Projets auxquels j'ai pris part](#projets-auxquels-j-ai-pris-part)
 - [Mes centres d'intérêt](#mes-centres-d'intérêt)
 
 
@@ -31,6 +32,11 @@ Les hard skills correspondent aux compétences dites "dures", c'est à dire la m
 Les soft skills sont les compétences dites "humaines", c'est à dire le travail de groupe ou encore la personnalité par exemple.
 
 Je peux m'adapter assez rapidement aux situations, et lorsque je rencontre un problème je donne mon maximum afin d'essayer de le surmonter, je peux m'adapter assez rapidement aux divers problèmes qui peuvent se présenter devant moi. Je suis capable de rester très calme dans beaucoup de situations comme des erreurs, des bugs et autres, je suis également très ouvert d'esprit et toujours prêt à écouter les conseil des personnes qui m'entourent, de les appliquer et à apprendre d'elles. Je suis également très solidaire et à l’écoutes des autres, grâce à cela, je peux assez facilement m’adapter au sein d’une équipe. Je suis très patient lorsque cela est nécessaire et c'est justement grâce à cette qualité que je peux résister à la pression et que j'arrive à donner mon maximum lors de problèmes plus ou moins importants.
+
+
+## Projets auxquels j'ai pris part
+
+
 
 ## Mes centres d'intérêt
 
