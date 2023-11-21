@@ -19,4 +19,7 @@ Je souhaites finir mon BUT informatique pour pouvoir ensuite devenir developpeur
 
 Depuis que je suis au collège, j'ai été de plus en plus intéressé par le développement d’applications et plus préctsément de jeux vidéo car depuis tout petit j'adore jouer à des jeux et plus précisement des rpg (role-play games) et je me suis toujours intéressé à comment arriver à ce résultat. J’apprécie également beaucoup les jeux de cartes et de stratégie comme Yu-Gi-Oh par exemple ce qui est en lien avec ma capacité d’analyse. J'aime aussi beaucoup lire des manga et regarder des animés mais cela n'a aucun lien avec mon objectif professionnel.
 
+## Mes compétences
+
+J'en ai pas, si j'en avais je ne serai pas ici mais à un meilleur endroit ;)
 
