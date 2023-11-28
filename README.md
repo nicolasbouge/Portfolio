@@ -25,7 +25,7 @@ Je souhaites finir mon BUT informatique pour pouvoir ensuite devenir developpeur
 
 **Hard Skills**  
 Les hard skills correspondent aux compétences dites "dures", c'est à dire la maitrise des différents langages de programmation par exemple.
-Je suis capable de réaliser des applications codée avec python, java ou encore C++. Je suis également capable de créer des sites web à l’aide des langages html/css et php/symfony et également avec javascript. A l’aide du labo kathara, je peux mettre en place un réseau informatique sécurisé. Afin de pouvoir faire tout cela, je peux installer une machine virtuelle programmée de manière à pouvoir utiliser ces langages.
+Je suis capable de réaliser des applications codée avec python, java ou encore C++. Je suis également capable de créer des sites web à l’aide des langages html/css et php/symfony et également avec javascript. A l’aide du labo kathara, je peux mettre en place un réseau informatique sécurisé. Afin de pouvoir faire tout cela, je peux installer une machine virtuelle programmée de manière à pouvoir utiliser ces langages. J'ai également une bonne maitrise des bases de données comme MySql ou encore oracleDB.
 
 
 **Soft Skills**  
@@ -37,9 +37,9 @@ Je peux m'adapter assez rapidement aux situations, et lorsque je rencontre un pr
 ## Projets Réalisés
 
 Tout au long de mes études, j'ai réalisé de nombreux projets afin de mettre en avant mes compétences.  
-J'ai réalisé une application en utilisant python et permettant de jouer à plusieurs jeux comme un morpion, un puissance 4, un jeu des allumettes et un jeu de devinette (plus grand ou plus petit). J'ai également réalisé d'autres projet avec d'autres langages, une application de lancer de rayon avec C++ couplée avec une interface graphique utilisant JavaFx, les images générées étaient stockées en base de données. J'ai également à l'aide de java et de javaFx développé une application reprenant un jeu de plateau nommé Latice.   
+J'ai réalisé une application en utilisant python et permettant de jouer à plusieurs jeux comme un morpion, un puissance 4, un jeu des allumettes et un jeu de devinette (plus grand ou plus petit). J'ai également réalisé d'autres projet avec d'autres langages, une application de lancer de rayon avec C++ couplée avec une interface graphique utilisant JavaFx, les images générées étaient stockées en base de données MySql. J'ai également à l'aide de java et de javaFx développé une application reprenant un jeu de plateau nommé Latice.   
 Pour ce qui est des réalisations web, j'ai créé des sites avec Php seulement, Php et le framework symfony, Html/css et également avec javascript, node et react.
-
+Lors de mon stage de deuxième année, j'ai du utiliser des données avec différents outils tels que Power BI qui m'a permis de créer de graphique et d'utiliser des requêtes DAX sur mes données et j'ai également découvert oracleDB qui m'a permis de récupérer mes données principales que j'ai ensuite transmis sur Power BI pour faire mes autres requêtes et mes graphiques.
 
 
 ## Mes centres d'intérêt
