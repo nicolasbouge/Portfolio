@@ -2,7 +2,7 @@
 
 # Sommaire
 
-- [Qui suis-je ?](#qui-suis-je)
+- [Qui suis-je?](#qui-suis-je)
 - [Projet Professionnel et objectifs](#projet-professionnel-et-objectifs)
 - [Mes compétences](#mes-compétences)
 - [Projets Réalisés](#projets-réalisés)
@@ -10,7 +10,7 @@
 
 
 
-## Qui suis je ?
+## Qui suis-je?
 
 Je m'appelle BOUGE Nicolas, actuellement en 3ème année de BUT Informatique à l'IUT du Limousin. Je suis très intéressé par ce qui est lié à l'informatique et surtout aux jeux video. Depuis mon enfance j'ai toujours été intéressé par ce qui se cachait derrière le résultat final et cela m'a donc donné envie de m'orienter dans le domaine de la programmation. Je suis capable de me donner au maximum et m'investir dans les choses me tenant à cœur comme le développement de jeux video par exemple. Je possède quelques problèmes de sociabilisation mais dès lors que je connais les personnes je n'ai plus aucun  problème et donc je peux aider à produire un travail d'équipe efficace. Je possède un bon niveau d'anglais sans non plus être très fort (790 à l’entraînement TOEIC), je suis capable de tenir une conversation simple mais s'il s'agit d'un dialogue un peu poussé je pourrais avoir du mal à communiquer, le problème ne venant pas de ma compréhension mais de mon expression. 
 
